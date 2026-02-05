@@ -4,8 +4,7 @@
 
 Software Engineer specializing in architecting high-performance distributed systems, low-latency microservices, and cloud-native applications. I design and build robust backend infrastructure that powers modern applications. Passionate about clean code, system design, and solving complex technical challenges that matter.
 
-🌐 **LinkedIn:** [linkedin.com/in/ojetunde-elijah](https://linkedin.com/in/ojetunde-elijah)  
-💼 **Portfolio:** *(Link your portfolio here or delete this line)*
+🌐 **LinkedIn:** [linkedin.com/in/ojetunde-elijah](https://linkedin.com/in/ojetunde-elijah) 
 
 ---
 
